@@ -3,7 +3,7 @@
 # Purpose
 This project provides the opportunity for practising your supervised learning skills. The competition format enables to objectively compare how well your model performs against other models.
 
-This is also a place where you can exercise your creativity. You will also want to explore the data, how the distribution varies between classes, what fires are hard to classify, and why. Its an opportunity to practice your data exploration skills, too.
+This is also a place where we can exercise our creativity. We will also want to explore the data, how the distribution varies between classes, what fires are hard to classify, and why. Its an opportunity to practice our data exploration skills, too.
 
 # Task
 This is a KaggleInClass challenge, you can find at https://www.kaggle.com/c/antechinus/.
